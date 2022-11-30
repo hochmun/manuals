@@ -1,10 +1,7 @@
 apple
 banana
-<<<<<<< HEAD
-insert user1
-=======
 1
 2
 3
 insert user2
->>>>>>> 59c62b68ef8bd845447f40058b79def574866099
+insert user1
