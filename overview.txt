@@ -3,3 +3,4 @@ banana
 1
 2
 3
+insert user2
